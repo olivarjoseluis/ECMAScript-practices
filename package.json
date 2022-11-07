@@ -1,0 +1,15 @@
+{
+  "name": "ecmascript-course",
+  "version": "1.0.0",
+  "description": "Project only for education.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "emascript"
+  ],
+  "author": "Jose Luis Olivar <olivarjoseluis9@gmail.com>",
+  "license": "MIT"
+}
