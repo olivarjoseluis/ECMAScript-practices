@@ -11,5 +11,9 @@
     "emascript"
   ],
   "author": "Jose Luis Olivar <olivarjoseluis9@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
